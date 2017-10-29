@@ -1,0 +1,10 @@
+Package: big-prelink-fix
+Version: 1.0.0-2big1
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Installed-Size:32
+Depends: prelink
+Section: admin
+Priority: optional
+Description: Fix prelink configuration for not crash skype
+
